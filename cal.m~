@@ -1,0 +1,7 @@
+function res = cal( x1,x2,op)
+%CAL Summary of this function goes here
+%   Detailed explanation goes here
+
+
+end
+
